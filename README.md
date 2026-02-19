@@ -8,7 +8,7 @@ The goal of the project is to analyze engagement patterns, platform usage trends
 The application was built using Streamlit, enabling dynamic filtering and real-time data exploration.
 
 ** Live App:**  
-https://omer-social-media-analytics.streamlit.app/
+[https://omer-social-media-analytics.streamlit.app/](https://omer-user-activity-website.streamlit.app/)
 
 
 ---
@@ -59,3 +59,4 @@ Data Processing → Filtering → KPI Calculation → Visualization → Insight 
 
 ## 👤 Author
 Omer Eliyahu Levi
+
